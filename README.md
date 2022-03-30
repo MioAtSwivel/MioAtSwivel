@@ -1,0 +1,8 @@
+👋 Helo, I’m @MioAtSwivel, i'm the ☕💻 and 🎹🎧🎵 people.
+
+i shove everything into an array
+
+<!---
+MioAtSwivel/MioAtSwivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
